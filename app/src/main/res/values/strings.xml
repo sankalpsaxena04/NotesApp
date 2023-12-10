@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="please_provide_all_the_required_information">Please Provide all the required information</string>
+    <string name="username">UserName</string>
+    <string name="user_name">user_name</string>
+    <string name="email">Email</string>
+    <string name="user_user_user">user@user.user</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="have_an_account_login">Have an account?<font color="blue"> Login</font></string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_access_your_notes">login to access your notes</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? <font color="blue">Register</font></string>
+    <string name="notes">NOTES:</string>
+</resources>
